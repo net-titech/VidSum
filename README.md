@@ -1,2 +1,8 @@
 # VidSum
-Novel Video Summarization Model
+Novel Model for Video Summarization
+
+## Introduction
+
+## Project layout
+
+## Citation

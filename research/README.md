@@ -24,3 +24,15 @@ Updated: 2016/12/07
 
 1. TBA
 
+
+
+
+## Resources
+1. [Yahoo Hecate](https://github.com/yahoo/hecate)
+2. [Thumbnail](https://github.com/yalesong/thumbnail)
+3. [TV Sum](https://github.com/yalesong/tvsum)
+
+## Possible Target
+1. [IEEE ICIP 2017](http://2017.ieeeicip.org/), Jan 31, 2017
+2. [ACM ICMR 2017](http://www.icmr2017.ro/), Jan 27, 2017
+3. [ICCV 2017](http://iccv2017.thecvf.com/), March 10, 2017

@@ -10,15 +10,15 @@ Updated: 2016/12/07
   1. Problem definition.
   2. Contributions.
   3. Comparision to existing algorithms.
-			- Random
-      - K-Means Centroid
-			- K-Means Stillness
-			- G-Lasso
-			- Beauty Rank
-			- CNN
-			- ATS Supervised (Song, CIKM 2016)
-			- ATS Unsupervised (Song, CIKM 2016)
-      - SeqDPP (Gong, NIPS 2014)
+  - Random
+  - K-Means Centroid
+  - K-Means Stillness
+  - G-Lasso
+  - Beauty Rank
+  - CNN
+  - ATS Supervised (Song, CIKM 2016)
+  - ATS Unsupervised (Song, CIKM 2016)
+  - SeqDPP (Gong, NIPS 2014)
   4. Download paper format (maybe CVPR).
   5. List datasets and experiments (Mocap - CMU).
 2. Dataset:

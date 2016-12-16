@@ -20,6 +20,7 @@ Updated: 2016/12/07
     - ATS Unsupervised (Song, CIKM 2016)
     - emDPP (Gillenwater, NIPS 2014)
     - SeqDPP (Gong, NIPS 2014)
+    - VSumm (de Avila, Pattern Recognition Letter 2011)
   4. Download paper format (maybe CVPR).
   5. List datasets and experiments (Mocap - CMU).
 2. Dataset:

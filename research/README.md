@@ -41,9 +41,6 @@ Updated: 2016/12/07
 
 1. TBA
 
-
-
-
 ## Resources
 1. [VSum](https://sites.google.com/site/vsummsite)
 2. [seqDPP](https://github.com/pujols/Video-summarization)

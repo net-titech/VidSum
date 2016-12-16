@@ -44,9 +44,13 @@ Updated: 2016/12/07
 
 
 ## Resources
-1. [Yahoo Hecate](https://github.com/yahoo/hecate)
-2. [Thumbnail](https://github.com/yalesong/thumbnail)
-3. [TV Sum](https://github.com/yalesong/tvsum)
+1. [VSum](https://sites.google.com/site/vsummsite)
+2. [seqDPP](https://github.com/pujols/Video-summarization)
+3. [emDPP](https://code.google.com/archive/p/em-for-dpps)
+4. [Yahoo Hecate](https://github.com/yahoo/hecate)
+5. [Thumbnail](https://github.com/yalesong/thumbnail)
+6. [TV Sum](https://github.com/yalesong/tvsum)
+
 
 ## Possible Target
 1. [IEEE ICIP 2017](http://2017.ieeeicip.org/), Jan 31, 2017

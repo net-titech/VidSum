@@ -18,13 +18,20 @@ Updated: 2016/12/07
     - CNN
     - ATS Supervised (Song, CIKM 2016)
     - ATS Unsupervised (Song, CIKM 2016)
+    - emDPP (Gillenwater, NIPS 2014)
     - SeqDPP (Gong, NIPS 2014)
   4. Download paper format (maybe CVPR).
   5. List datasets and experiments (Mocap - CMU).
 2. Dataset:
-  1. Download datasets (Mocap - CMU and others).
+  1. Download datasets 
+    - Basketball, Boxing, and General Exercises & Stretching (Mocap - CMU).
+    - OpenVideo Project (OVP) used by (Gong, NIPS 2014)
+    - YouTube (VSUMM) used by (Gong, NIPS 2014)
 3. Packing other codes:
   1. Collect the source code of other methods.
+    - em-DPP
+    - seqDPP
+    - FLID
   2. Design common interface for video summarization.
   3. Pack algorithms into portable Python packages.
 4. Collect more related paper on video summarization.

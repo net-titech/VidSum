@@ -33,6 +33,7 @@ Updated: 2016/12/07
     - em-DPP
     - seqDPP
     - FLID
+    - VSumm
   2. Design common interface for video summarization.
   3. Pack algorithms into portable Python packages.
 4. Collect more related paper on video summarization.

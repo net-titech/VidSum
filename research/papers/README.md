@@ -19,6 +19,7 @@ Reading list about video/data summarization topic.
 4. [To Click or Not To Click: Automatic Selection of Beautiful Thumbnails from Videos](https://arxiv.org/pdf/1609.01388v1.pdf). Y. Song, et al. CIKM 2016.
 5. [Video Summarization: Techniques and Classification](http://link.springer.com/chapter/10.1007/978-3-642-33564-8_1). M. Ajmal, et al. Computer Vision and Graphics, Springer, 2012, pp. 1–13.
 6. [Video Summarization by Learning Submodular Mixtures of Objectives](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Gygli_Video_Summarization_by_2015_CVPR_paper.pdf)
+7. [Video Summarization using Deep Semantic Features](https://arxiv.org/pdf/1609.08758.pdf). Otani, et al. ACCV 2016.
 
 
 ## Posts (Blogs, Online forums)

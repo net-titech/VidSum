@@ -12,6 +12,7 @@ Reading list about video/data summarization topic.
 4. [Learning determinantal point processes](http://www.alexkulesza.com/pubs/dpplearn_uai11.pdf). A. Kulesza and B. Taskar. Conference on Uncertainty in Artificial Intelligence (UAI 2011).
 5. [Determinantal Point Processes for Machine Learning](http://dl.acm.org/citation.cfm?id=2481023). A. Kulesza. Found. Trends® Mach. Learn., vol. 5, no. 2–3, pp. 123–286, 2012.
 6. [Submodular Function Maximization](https://las.inf.ethz.ch/files/krause12survey.pdf). Andreas Krause, et al. 2012.
+7. [Large-Margin Determinantal Point Processes](http://www.cs.utexas.edu/~grauman/papers/chao-uai2015.pdf). Chao, et al. UAI 2015.
 
 ### Video Summarization
 1. [Diverse Sequential Subset Selection for Supervised Video Summarization](https://papers.nips.cc/paper/5413-diverse-sequential-subset-selection-for-supervised-video-summarization.pdf). B. Gong, et al. NIPS 2014.

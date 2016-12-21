@@ -1,0 +1,114 @@
+#### seqDPP-linear on OVP ####
+Initializing videos
+Start training!
+Start generating summaries!
+Start evaluation!
+java -jar CUS1.jar -i input_wholeCmp1.txt -o output_wholeCmp1.txt -u 5 -a 1 -t 0.5
+
+#### CUS options ####
+Input : input_wholeCmp1.txt
+Output : output_wholeCmp1.txt
+#Users : 5
+#Approaches : 1
+Threshold : 0.5
+
+doing 1: ../data/OVP_YouTube_cmp/v24
+doing 2: ../data/OVP_YouTube_cmp/v28
+doing 3: ../data/OVP_YouTube_cmp/v31
+doing 4: ../data/OVP_YouTube_cmp/v36
+doing 5: ../data/OVP_YouTube_cmp/v42
+doing 6: ../data/OVP_YouTube_cmp/v43
+doing 7: ../data/OVP_YouTube_cmp/v56
+doing 8: ../data/OVP_YouTube_cmp/v57
+doing 9: ../data/OVP_YouTube_cmp/v59
+doing 10: ../data/OVP_YouTube_cmp/v70
+
+End!!
+% F-score, Recall, Precision: 
+    0.7995    0.8808    0.7714
+
+Press any key to continue for seqDPP-linear on YouTube
+####seqDPP-linear on YouTube ####
+Initializing videos
+Start training!
+Start generating summaries!
+Start evaluation!
+java -jar CUS1.jar -i input_wholeCmp1.txt -o output_wholeCmp1.txt -u 5 -a 1 -t 0.5
+
+#### CUS options ####
+Input : input_wholeCmp1.txt
+Output : output_wholeCmp1.txt
+#Users : 5
+#Approaches : 1
+Threshold : 0.5
+
+doing 1: ../data/OVP_YouTube_cmp/v74
+doing 2: ../data/OVP_YouTube_cmp/v78
+doing 3: ../data/OVP_YouTube_cmp/v81
+doing 4: ../data/OVP_YouTube_cmp/v87
+doing 5: ../data/OVP_YouTube_cmp/v93
+doing 6: ../data/OVP_YouTube_cmp/v107
+doing 7: ../data/OVP_YouTube_cmp/v108
+doing 8: ../data/OVP_YouTube_cmp/v110
+
+End!!
+% F-score, Recall, Precision: 
+    0.5619    0.6442    0.5431
+
+Press any key to continue for seqDPP-NN on OVP
+#### seqDPP-NN on OVP ####
+Initializing videos
+Start training!
+Start generating summaries!
+Start evaluation!
+java -jar CUS1.jar -i input_wholeCmp1.txt -o output_wholeCmp1.txt -u 5 -a 1 -t 0.5
+
+#### CUS options ####
+Input : input_wholeCmp1.txt
+Output : output_wholeCmp1.txt
+#Users : 5
+#Approaches : 1
+Threshold : 0.5
+
+doing 1: ../data/OVP_YouTube_cmp/v24
+doing 2: ../data/OVP_YouTube_cmp/v28
+doing 3: ../data/OVP_YouTube_cmp/v31
+doing 4: ../data/OVP_YouTube_cmp/v36
+doing 5: ../data/OVP_YouTube_cmp/v42
+doing 6: ../data/OVP_YouTube_cmp/v43
+doing 7: ../data/OVP_YouTube_cmp/v56
+doing 8: ../data/OVP_YouTube_cmp/v57
+doing 9: ../data/OVP_YouTube_cmp/v59
+doing 10: ../data/OVP_YouTube_cmp/v70
+
+End!!
+% F-score, Recall, Precision: 
+    0.7650    0.9262    0.7096
+
+Press any key to continue for seqDPP-NN on YouTube
+#### seqDPP-NN on YouTube ####
+Initializing videos
+Start training!
+Start generating summaries!
+Start evaluation!
+java -jar CUS1.jar -i input_wholeCmp1.txt -o output_wholeCmp1.txt -u 5 -a 1 -t 0.5
+
+#### CUS options ####
+Input : input_wholeCmp1.txt
+Output : output_wholeCmp1.txt
+#Users : 5
+#Approaches : 1
+Threshold : 0.5
+
+doing 1: ../data/OVP_YouTube_cmp/v74
+doing 2: ../data/OVP_YouTube_cmp/v78
+doing 3: ../data/OVP_YouTube_cmp/v81
+doing 4: ../data/OVP_YouTube_cmp/v87
+doing 5: ../data/OVP_YouTube_cmp/v93
+doing 6: ../data/OVP_YouTube_cmp/v107
+doing 7: ../data/OVP_YouTube_cmp/v108
+doing 8: ../data/OVP_YouTube_cmp/v110
+
+End!!
+% F-score, Recall, Precision: 
+    0.6017    0.6287    0.6007

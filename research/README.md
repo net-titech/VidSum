@@ -40,7 +40,24 @@ Updated: 2016/12/07
 
 ### 2. Dec 21st to Jan 3rd
 
-1. TBA
+1. Running all baseline methods using all the datasets
+  a. Baseline Methods:
+    - seqDPP Linear
+    - seqDPP NNets
+    - VSumm1
+    - VSumm2
+    - DT
+    - OV 
+    - STIMO
+  b. Dataset:
+    - OpenVideo Project (OVP) 
+    - YouTube 
+2. Modify FLID for processing the same input and output as baseline methods
+3. Implementing Theano + Keras
+4. Find more related paper for evaluation:
+  a. Diversity evaluation
+  b. Non expert/user judgment
+  
 
 ## Resources
 1. [VSum](https://sites.google.com/site/vsummsite)
